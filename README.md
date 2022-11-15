@@ -15,7 +15,7 @@ curl -o- https://raw.githubusercontent.com/NikhilSaini38/aokzoe-holoiso-fix-scri
 or 
 
 ```
-curl -o- https://pastebin.com/vMc5Yy7u | bash
+curl -o- https://pastebin.com/raw/vMc5Yy7u | bash
 ```
 
 this will trigger holoiso setup and replace the offending files automatically after the install is finished.
