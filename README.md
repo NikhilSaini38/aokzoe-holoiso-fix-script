@@ -12,4 +12,4 @@ if you want all the process in one go
 sudo arch-chroot /mnt sh -c "curl -o- https://raw.githubusercontent.com/NikhilSaini38/aokzoe-holoiso-fix-script/main/runner.sh | bash"
 ```
 
-this will trigger holo-iso setup and replace the offending files automatically after the install is finished.
+this will trigger holoiso setup and replace the offending files automatically after the install is finished.
