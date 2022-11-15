@@ -9,7 +9,13 @@ sudo arch-chroot /mnt sh -c "curl -o- https://raw.githubusercontent.com/NikhilSa
 
 if you want all the process in one go 
 ```
-sudo arch-chroot /mnt sh -c "curl -o- https://raw.githubusercontent.com/NikhilSaini38/aokzoe-holoiso-fix-script/main/runner.sh | bash"
+curl -o- https://raw.githubusercontent.com/NikhilSaini38/aokzoe-holoiso-fix-script/main/runner.sh | bash
+```
+
+or 
+
+```
+curl -o- https://pastebin.com/vMc5Yy7u | bash
 ```
 
 this will trigger holoiso setup and replace the offending files automatically after the install is finished.
